@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Algoritmo_Shell;
 
 import java.util.*;
@@ -20,7 +15,7 @@ class Shell {
         System.out.println(" Ingrese los elementos a array");
 
         for (int i = 0; i < ar.length; i++) {
-            System.out.print(i + ": ");
+            System.out.print(i + ": ");//estamos imprimiendo las iteraciones
             // ar[i] = (int) (Math.random() * 10);  //ingresando datos aleatorio
             ar[i] = entrada.nextInt();
         }
