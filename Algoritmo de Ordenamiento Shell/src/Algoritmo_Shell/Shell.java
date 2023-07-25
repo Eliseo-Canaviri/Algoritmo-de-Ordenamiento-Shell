@@ -3,7 +3,7 @@ package Algoritmo_Shell;
 import java.util.*;
 
 /**
- *
+ * hola que tal desde visual
  * @author Eliseo Canaviri
  */
 class Shell {
