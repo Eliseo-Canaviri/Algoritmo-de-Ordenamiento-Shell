@@ -3,11 +3,12 @@ package Algoritmo_Shell;
 import java.util.*;
 
 /**
- * hola que tal desde visual
+ * Hola que tal
  * @author Eliseo Canaviri
- * jjahjdsjhadhjd
+ * 
  */
 class Shell {
+
 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
